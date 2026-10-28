@@ -1,0 +1,7 @@
+print("=========PRACTICA=========")
+print("escribe una oracion al menos con 3 variables con input")
+print("======ejemplo======")
+a = input("escribe tu hobi favorito") 
+b = input("escribe tu color favorito") 
+c = input("escribe tu nombre")
+print("hola",c,"que bueno que te guste el ",a,"y a mi tambien me gusta el color",b,)
